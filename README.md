@@ -54,12 +54,12 @@ This project is a **full-stack decentralized application (dApp)** that integrate
 ### 📍 Contract Address
 
 ```
-CBQTD7EPURN2M5XQ2AFDZ2AT7MFGVMK5GAAGXPNTZOKKPVFBLPCGIVUO
+GDUXIXA6KCVGBMTUDTNLNJCVKA3C4OWBOJQ2ZWTA7UIFMMJFESTJIGBF
 ```
 
 ### 🔗 Explorer Link
 
-https://stellar.expert/explorer/testnet/contract/CBQTD7EPURN2M5XQ2AFDZ2AT7MFGVMK5GAAGXPNTZOKKPVFBLPCGIVUO
+https://stellar.expert/explorer/testnet/contract/GDUXIXA6KCVGBMTUDTNLNJCVKA3C4OWBOJQ2ZWTA7UIFMMJFESTJIGBF
 
 ### 🌍 Network
 
@@ -69,6 +69,7 @@ Stellar Testnet
 
 ## 📸 Deployment Screenshot
 
+<img width="1805" height="914" alt="image" src="https://github.com/user-attachments/assets/3af7a840-6d51-4a5c-921b-45d5f45de141" />
 
 
 ## ⚙️ Installation & Setup
